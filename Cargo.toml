@@ -2,6 +2,13 @@
 name = "multiple_choice"
 version = "0.1.0"
 edition = "2024"
+authors = ["Treagzhao <your.email@example.com>"]
+description = "A Rust proc-macro library that verifies function results through multiple executions"
+repository = "https://github.com/Treagzhao/multiple_choice"
+license = "MIT"
+readme = "README.md"
+keywords = ["proc-macro", "verification", "testing"]
+categories = ["development-tools", "rust-patterns"]
 
 [lib]
 proc-macro = true

@@ -2,7 +2,7 @@
 name = "multiple_choice"
 version = "0.1.0"
 edition = "2024"
-authors = ["Treagzhao <your.email@example.com>"]
+authors = ["Treagzhao <920866163@qq.com>"]
 description = "A Rust proc-macro library that verifies function results through multiple executions"
 repository = "https://github.com/Treagzhao/multiple_choice"
 license = "MIT"
